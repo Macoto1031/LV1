@@ -189,7 +189,7 @@ body {
 .banner-left1 {
     width: 50%;
     height: 834px;
-    background-image: url('/images/desktop/index/HeroSection.png');
+    background-image: url('https://github.com/hexschool/2022-web-layout-training/blob/main/2025-web-camp/desktop/index/Hero%20Section.png?raw=true');
     background-size: cover;
     background-position: center;
 }
